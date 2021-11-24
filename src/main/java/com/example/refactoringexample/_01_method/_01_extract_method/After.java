@@ -1,9 +1,8 @@
-package com.example.refactoringexample._01_method._01_extract_method._02_after;
+package com.example.refactoringexample._01_method._01_extract_method;
 
-import com.example.refactoringexample._01_method._01_extract_method.Order;
 import java.util.List;
 
-public class App {
+public class After {
 
     private String name;
     private List<Order> orders;

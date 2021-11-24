@@ -1,9 +1,9 @@
-package com.example.refactoringexample._01_method._01_extract_method._01_before;
+package com.example.refactoringexample._01_method._01_extract_method;
 
 import com.example.refactoringexample._01_method._01_extract_method.Order;
 import java.util.List;
 
-public class App {
+public class Before {
 
     private String name;
     private List<Order> orders;
