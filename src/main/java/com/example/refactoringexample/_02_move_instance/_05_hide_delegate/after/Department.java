@@ -8,4 +8,8 @@ public class Department {
     public Department(Person manager) {
         this.manager = manager;
     }
+
+    public Person getManager() {
+        return manager;
+    }
 }

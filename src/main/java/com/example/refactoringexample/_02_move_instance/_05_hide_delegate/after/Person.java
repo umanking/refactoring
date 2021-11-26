@@ -4,9 +4,10 @@ public class Person {
 
     Department department;
 
-    public Department getDepartment() {
-        return department;
-    }
+    // getter를 제공할 필요가 없다.
+//    public Department getDepartment() {
+//        return department;
+//    }
 
     public void setDepartment(Department department) {
         this.department = department;
