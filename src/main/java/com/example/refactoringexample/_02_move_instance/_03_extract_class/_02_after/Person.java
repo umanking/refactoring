@@ -20,6 +20,7 @@ public class Person {
 
     public String getOfficeNumber() {
         return telephoneNumber.getNumber();
+
     }
 
     //setter
